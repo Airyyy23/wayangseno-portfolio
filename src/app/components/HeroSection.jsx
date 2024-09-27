@@ -7,7 +7,7 @@ import Link from 'next/link';
 
 const HeroSection = () => {
   return (
-    <section className="py-12 lg:py-16 bg-[#121212]">
+    <section className="py-14 lg:py-16 bg-[#121212]">
       <div className="grid grid-cols-1 sm:grid-cols-12 gap-6">
         {/* Left Text Section */}
         <motion.div
